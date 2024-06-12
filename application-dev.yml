@@ -8,5 +8,5 @@ spring:
       ddl-auto: update
     show-sql: true
     application:
-         name: Config-Default
+         name: Config-payment
   
