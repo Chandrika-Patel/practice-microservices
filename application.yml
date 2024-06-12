@@ -8,6 +8,6 @@
 eureka:
     client:
        register:
-              with-eureka: false 
-              fetch-registry: false          
+              with-eureka: true
+              fetch-registry: true         
           
